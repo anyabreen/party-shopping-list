@@ -1,8 +1,15 @@
 gin
 rum
 vodka
+<<<<<<< Updated upstream
 lemonade
 cola
 tequila
 beer
 cider
+=======
+banana milkshake
+tequila
+lemonade
+cider
+>>>>>>> Stashed changes
