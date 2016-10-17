@@ -2,3 +2,7 @@ gin
 rum
 vodka
 lemonade
+cola
+tequila
+beer
+cider
